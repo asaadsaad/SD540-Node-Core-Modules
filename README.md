@@ -1,4 +1,4 @@
-## SD540-Node-Code-Modules
+## SD540-Node-Core-Modules
   
 ## Exercise 01
 Create a file `data.json` which contains the following JSON structure:
